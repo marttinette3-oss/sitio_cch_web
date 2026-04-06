@@ -199,7 +199,7 @@ a.aprender-mas:hover{
     list-style: none;
 }
 .complementario ul li{ /*** 4 ***/
-    background: url("imagen/icon.png") no-repeat left center;
+    background: url("imagen/icon.PNG") no-repeat left center;
     padding-left: 24px;
     margin-bottom: 8px;
 }
